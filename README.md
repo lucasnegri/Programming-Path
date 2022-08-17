@@ -1,8 +1,5 @@
 # Computer Science and Programming - Version 4.0
 
-Please read the [FAQ](./faq.md) and note that there are [Tier Project Ideas](./project_ideas.md) to help you select projects.
-
-**Note:** Prior guides have been deprecated but are still available [here](./deprecated/README.md)
 
 ## Table of Contents
 
@@ -53,11 +50,7 @@ The following specializations rely on knowledge gained in earlier tiers. Additio
 - [Data Science I](./specializations/data-science-i.md) - Suggested for Tier 2 or later
 - [Data Science II](./specializations/data-science-ii.md) - Data Science I is a pre-requisite
 
-### Tier Programming Projects
 
-Both tiers and specializations will require 'Tier Programming Projects', you are free to select any programming project you want. To help combat the 'but I don't know what I want' roadblock, [Tier Programming Project Ideas](./project_ideas.md) lists a variety of ideas.
-
-**Note:** In specializations, the Tier Programming Projects might have extra criteria (such as 'if you're doing a mobile app development specialization your projects must be mobile apps')
 
 ## Junior developer
 
@@ -67,7 +60,7 @@ Math will be relevant throughout the guide. Begin it as you start the guide, and
 
 | Courses                                                       | Status  | Evidence |
 | :------------------------------------------------------------ | :----:  | :------: |
-| [Algebra I](https://www.khanacademy.org/math/algebra)         |Started  |          |
+| [Algebra I](https://www.khanacademy.org/math/algebra)         | Started |          |
 | [Algebra II](https://www.khanacademy.org/math/algebra2)       |         |          |
 | [Trigonometry](https://www.khanacademy.org/math/trigonometry) |         |          |
 | [Precalculus](https://www.khanacademy.org/math/precalculus)   |         |          |
